@@ -117,7 +117,7 @@ def mu(m1,m2,s0,s1,e2,f2,k2,l1):
     return (e2*l1*m1*s0 - f2*k2*m2*s1)/(k2*l1+k2*m2*s1+l1*m1*s0)
 
 
-####  ODES for m0, m11, m12, m21, m22, a0 and a1 ####
+####  ODES for m0, m11, m12, m21, m22, a0, a1, b0 and b1 ####
 def dm0_dt(P,t):
     m0=P[0]
     m11=P[1]

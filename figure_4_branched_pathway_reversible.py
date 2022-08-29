@@ -214,10 +214,10 @@ kin_vals=np.logspace(-2,2,numkin)
 intervalkin=np.log10(kin_vals[1]/kin_vals[0])
 kin_valsplot=np.logspace(-2-intervalkin/2.,2+intervalkin/2,numkin+1)
 
-### generate the kin values and then the corners for the heatmap ###
+### generate the Atot and Btot values and then the corners for the heatmap ###
 ### first define the ratios ###
 cosub_ratios = np.logspace(-4,4,numAtotinit)
-### calculate the pool values so that the average is constant ####
+### calculate the pool sizes so that the average is constant ####
 Bpool_vals= 2*cosub_avg/(1+cosub_ratios)
 Apool_vals=cosub_ratios*Bpool_vals
 interval_cosubratios=np.log10(cosub_ratios[1]/cosub_ratios[0])
@@ -329,7 +329,7 @@ plt.title('flux into $M_{22}$/flux into $M_{21}$')
 cb=plt.colorbar()
 
 
-### show block colors where there is build up of the relevant metabolite
+### show block colors where there is build up of the relevant metabolite(s)
 cmap1=ListedColormap(m12col)
 plt.pcolormesh(cosub_ratios_plot,kin_valsplot,(M12buildup),cmap=cmap1)#,alpha=0.3)#,shading='gouraud')
 plt.yscale('log')

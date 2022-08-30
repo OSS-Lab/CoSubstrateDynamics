@@ -36,8 +36,8 @@ var=1.
 ###     time scales linearly with both numkin and numAtotinit (so increasing both by a 
 ###     factor of x will increase the time by x^2  - with the current parameters 
 ###     it takes around 10 minutes                                                     
-numtauvals=3#9
-numAvals=3#9
+numtauvals=9
+numAvals=9
 taumax=2 ## max value of log10(tau) - increasing leads to much longer simulation times
 atotmax=2 ##max value to log10(Atot) - can increase without time penalty
 

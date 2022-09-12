@@ -1,4 +1,4 @@
-reaction,gene,cycling_pool,kcat_1_per_sec,compilation,literature for kcat,Km_uM,Km_metabolite
+reaction_BiGG_ID,gene,cycling_pool,kcat_1_per_sec,compilation,literature for kcat,Km_uM,Km_metabolite
 PFK,"pfkA,pfkB",AMP + ADP + ATP,185,Davidi et al,PMID:7575542,13,C00085
 PYK,"pykA,pykF",AMP + ADP + ATP,,Wortel et al (Km from BRENDA by OSS),PMID: 2200929,"[25, 55, 480]",C00022
 ICDHyr,icd,NADP + NADPH,106,Davidi et al (Km from Wortel et al),PMID:17401542,40.2,C00311

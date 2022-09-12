@@ -1,4 +1,4 @@
-reaction,gene,acetate,fructose,galactose,glucose,glycerol,pyruvate,succinate
+reaction_BiGG_ID,gene,acetate,fructose,galactose,glucose,glycerol,pyruvate,succinate
 PFK,"pfkA,pfkB",3.6E-06,6.8E-06,1.0E-05,5.1E-06,4.8E-06,3.3E-06,3.2E-06
 PYK,"pykA,pykF",,,,,,,
 ICDHyr,icd,1.3E-04,8.1E-05,1.7E-04,1.2E-04,9.4E-05,1.4E-04,1.1E-04

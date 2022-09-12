@@ -1,4 +1,4 @@
-reaction,acetate,fructose,galactose,glucose,glycerol,gluconate,pyruvate,succinate
+reaction_BiGG_ID,acetate,fructose,galactose,glucose,glycerol,gluconate,pyruvate,succinate
 Ace_Ex,13.584 ± 0.326,-3.329 ± 0.059,0 ± 0,-6.827 ± 1.029,-0.597 ± 0.2,-5.004 ± 0.158,-11.914 ± 0.531,-3.321 ± 0.309
 Fru_Ex,0 ± 0,8.328 ± 0.279,0 ± 0,0 ± 0,0 ± 0,0 ± 0,0 ± 0,0 ± 0
 Gal_Ex,0 ± 0,0 ± 0,1.969 ± 0.013,0 ± 0,0 ± 0,0 ± 0,0 ± 0,0 ± 0

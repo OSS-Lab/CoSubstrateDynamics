@@ -1,4 +1,4 @@
-reaction,galactose,acetate,pyruvate,fumarate,succinate,glucosamine,glycerol,mannose,xylose,glucose,fructose
+reaction_BiGG_ID,galactose,acetate,pyruvate,fumarate,succinate,glucosamine,glycerol,mannose,xylose,glucose,fructose
 3OAR140,5.60E-06,6.50E-06,8.60E-06,9.10E-06,9.50E-06,9.90E-06,1.00E-05,1.00E-05,1.20E-05,1.30E-05,1.40E-05
 5DOAN,1.60E-08,1.90E-08,2.50E-08,2.60E-08,2.80E-08,2.90E-08,2.90E-08,2.90E-08,3.40E-08,3.60E-08,4.10E-08
 ACGK,2.10E-05,2.50E-05,3.30E-05,3.50E-05,3.60E-05,3.80E-05,3.90E-05,3.90E-05,4.50E-05,4.80E-05,5.30E-05
